@@ -1,15 +1,15 @@
-# Telegram-SpottedDMI-Bot
+# Telegram-Ask-DMI-Bot
 
-[![Test and docs](https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot/actions/workflows/prod.workflow.yml/badge.svg)](https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot/actions/workflows/prod.workflow.yml)
-[![Docker image](https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot/actions/workflows/docker.yml/badge.svg)](https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot/actions/workflows/docker.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/unict-dmi/telegram-spotteddmi-bot/badge)](https://www.codefactor.io/repository/github/unict-dmi/telegram-spotteddmi-bot)
+[![Test and docs](https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot/actions/workflows/prod.workflow.yml/badge.svg)](https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot/actions/workflows/prod.workflow.yml)
+[![Docker image](https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot/actions/workflows/docker.yml/badge.svg)](https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot/actions/workflows/docker.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/unict-dmi/telegram-ask-dmi-bot/badge)](https://www.codefactor.io/repository/github/unict-dmi/telegram-ask-dmi-bot)
 
-**Telegram-SpottedDMI-Bot** is the platform that powers **[@Spotted_DMI_Bot](https://telegram.me/Spotted_DMI_Bot)**, a Telegram bot that let students send an anonymous message to the channel community.
+**Telegram-Ask-DMI-Bot** is the platform that powers **[@Ask_DMI_Bot](https://telegram.me/Ask_DMI_Bot)**, a Telegram bot that let students send an anonymous message to the channel community.
 
 ### 🔴 Using the live version
 
-The bot is live on Telegram with the username [**@Spotted_DMI_Bot**](https://telegram.me/Spotted_DMI_Bot).
-To see the posts, once published, check [**Spotted DMI**](https://t.me/Spotted_DMI)
+The bot is live on Telegram with the username [**@Ask_DMI_Bot**](https://telegram.me/Ask_DMI_Bot).
+To see the posts, once published, check [**Ask DMI**](https://t.me/Ask_DMI)
 Send **'/start'** to start it, **'/help'** to see a list of commands.
 
 Please note that the commands and their answers are in Italian.
@@ -384,4 +384,4 @@ run_sql <path_to_sql_script> <path_to_db_file>
 
 ## 📚 Documentation
 
-[Link to the documentation](https://unict-dmi.github.io/Telegram-SpottedDMI-Bot/)
+[Link to the documentation](https://unict-dmi.github.io/Telegram-Ask-DMI-Bot/)

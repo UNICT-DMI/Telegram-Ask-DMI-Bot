@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add banned users list to the **/sban** command [ closes #124 ] [ from #140 ]
 - Add scoped command list to differentiate between user and admin commands
 - Added python package anyone can install to immediately run the bot, without going through git
-  - The python package name will be `telegram-spotted-dmi-bot` (hence `pip install telegram-spotted-dmi-bot`)
+  - The python package name will be `telegram-ask-dmi-bot` (hence `pip install telegram-ask-dmi-bot`)
   - The name of the main module will be `spotted` (hence `import spotted`)
 - the project will be versioned, starting from 2.0.0. So you will need a tag with a new version to publish the new python package
 - Timestamp to the user_follow table to keep track of when a user started following a post

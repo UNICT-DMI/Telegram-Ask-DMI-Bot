@@ -1,9 +1,9 @@
 debug:
   local_log: false
   reset_on_load: false
-  log_file: "logs/spotted.log"
-  log_error_file: "logs/spotted_error.log"
-  db_file: "spotted.sqlite3"
+  log_file: "logs/ask.log"
+  log_error_file: "logs/ask_error.log"
+  db_file: "ask.sqlite3"
 post:
   community_group_id: -1
   channel_id: -2

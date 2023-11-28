@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 # Metadata of the project
 [project]
-name = "telegram-spotted-dmi-bot"
-description = "Telegram-SpottedDMI-Bot is the platform that powers @Spotted_DMI_Bot, a Telegram bot that let students send an anonymous message to the channel community"
+name = "telegram-ask-dmi-bot"
+description = "Telegram-Ask-DMI-Bot is the platform that powers @Ask_DMI_Bot, a Telegram bot that let students send an anonymous questions to the channel community"
 readme = "README.md"
 requires-python = ">=3.10"
 license.file = "LICENSE"
@@ -25,7 +25,7 @@ maintainers = [
     { name = "alepiaz" },
     { name = "TaToTanWeb" },
 ]
-keywords = ["python", "telegram", "bot", "spotted", "dmi", "unict"]
+keywords = ["python", "telegram", "bot", "ask", "dmi", "unict"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Programming Language :: Python",
@@ -53,18 +53,18 @@ dependencies = [
 dynamic = ['version']
 
 # All the optional dependencies of the project
-# Can be installed with `pip install telegram-spotted-dmi-bot[dependency]`
-# e.g. `pip install telegram-spotted-dmi-bot[test]`
+# Can be installed with `pip install telegram-ask-dmi-bot[dependency]`
+# e.g. `pip install telegram-ask-dmi-bot[test]`
 [project.optional-dependencies]
 test = ["pytest", "pytest-asyncio", "pytest-cov", "pytest-mock"]
 lint = ["pylint", "black", "isort"]
 
 # URLs of the project
 [project.urls]
-Homepage = "https://unict-dmi.github.io/Telegram-SpottedDMI-Bot/"
-Documentation = "https://unict-dmi.github.io/Telegram-SpottedDMI-Bot/modules"
-Repository = "https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot"
-Changelog = "https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot/blob/main/.github/CHANGELOG.md"
+Homepage = "https://unict-dmi.github.io/Telegram-Ask-DMI-Bot/"
+Documentation = "https://unict-dmi.github.io/Telegram-Ask-DMI-Bot/modules"
+Repository = "https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot"
+Changelog = "https://github.com/UNICT-DMI/Telegram-Ask-DMI-Bot/blob/main/.github/CHANGELOG.md"
 
 # Entry points of the package
 [project.scripts]
