@@ -1,5 +1,6 @@
 autoreplies:
   repost: "Questo è un repost. Cerca prima di postare."
+  "spotted": "Sarebbe opportuno rivolgere questa domanda in @Spotted_DMI mediante il bot @Spotted_DMI_Bot"
   rappresentanti: "Sarebbe opportuno rivolgere la domanda direttamente ai rappresentanti.\nPuoi consultarli direttamente o utilizzare il comando /report del @DMI_Bot"
   "gruppi materie": "Per avere informazioni riguardo la materia, consulta il gruppo Telegram apposito.\nPuoi trovare una lista completa su https://telegram.unictdev.org/. cliccando su 'DMI bachelor groups' o 'DMI Master's degree groups'."
   off-topic: "Questo è off-topic. Prova a postare qualcosa di più appropriato."
